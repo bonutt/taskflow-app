@@ -8,11 +8,11 @@ App de gerenciamento de tarefas feito com React Native, Expo e TypeScript. O usu
 
 | Nome | RM |
 |------|----|
+| Henrique Maciel Rodrigues | RM559628 |
 | Luigi Pereira Bonuccelli | RM560950 |
-| | |
-| | |
-| | |
-| | |
+| Pedro Paulo Sabino Botelho | RM559578 |
+| Igor Nociti | RM560225 |
+| João Pedro Vieira de Morais | RM560527 |
 
 ## Vídeo
 

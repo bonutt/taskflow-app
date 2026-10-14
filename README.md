@@ -16,7 +16,7 @@ App de gerenciamento de tarefas feito com React Native, Expo e TypeScript. O usu
 
 ## Vídeo
 
-Link: (colocar aqui)
+Link: https://youtu.be/-CjnmYgIN-Q
 
 ## Credenciais para teste
 
